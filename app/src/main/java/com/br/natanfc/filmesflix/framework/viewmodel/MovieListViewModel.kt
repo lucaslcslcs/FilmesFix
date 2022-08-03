@@ -1,4 +1,4 @@
-package com.br.natanfc.filmesflix.framework.api.viewmodel
+package com.br.natanfc.filmesflix.framework.viewmodel
 
 import android.util.Log
 import androidx.lifecycle.LiveData
