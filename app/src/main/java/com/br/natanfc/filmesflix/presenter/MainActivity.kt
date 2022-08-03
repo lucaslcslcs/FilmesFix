@@ -6,7 +6,7 @@ import android.view.View
 import androidx.lifecycle.ViewModelProvider
 import com.br.natanfc.filmesflix.R
 import com.br.natanfc.filmesflix.domain.Movie
-import com.br.natanfc.filmesflix.framework.api.viewmodel.MovieListViewModel
+import com.br.natanfc.filmesflix.framework.viewmodel.MovieListViewModel
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
